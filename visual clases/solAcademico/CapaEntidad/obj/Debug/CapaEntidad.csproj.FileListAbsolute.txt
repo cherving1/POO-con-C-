@@ -1,0 +1,6 @@
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaEntidad\obj\Debug\CapaEntidad.pdb

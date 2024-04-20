@@ -1,0 +1,13 @@
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\User\Documents\universidad\7mo semesre\construcion de sofware\visual clases\solAcademico\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
